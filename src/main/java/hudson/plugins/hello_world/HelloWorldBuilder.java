@@ -41,6 +41,7 @@ public class HelloWorldBuilder extends Builder {
      */
     @DataBoundConstructor
     public HelloWorldBuilder(String name) {
+        fail the build2
         this.name = name;
     }
 
