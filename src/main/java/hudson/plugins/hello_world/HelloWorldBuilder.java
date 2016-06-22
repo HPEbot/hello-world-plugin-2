@@ -41,7 +41,7 @@ public class HelloWorldBuilder extends Builder {
      */
     @DataBoundConstructor
     public HelloWorldBuilder(String name) {
-        cool cool
+        // cool cool
         this.name = name;
     }
 
