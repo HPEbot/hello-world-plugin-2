@@ -42,7 +42,7 @@ public class HelloWorldBuilder extends Builder {
     @DataBoundConstructor
     public HelloWorldBuilder(String name) {
         int a =5;
-        fail the build
+        //fail the build
         this.name = name;
     }
 
