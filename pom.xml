@@ -55,11 +55,7 @@
       <name>Kohsuke Kawaguchi</name>
       <email>kk@kohsuke.org</email>
     </developer>
-    <developer>
-      <id>jieryn</id>
-      <name>Jesse Farinacci</name>
-      <email>jieryn@gmail.com</email>
-    </developer>
+
   </developers>
 
   <scm>
