@@ -63,9 +63,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/hello-world-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/hello-world-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/hello-world-plugin</url>
+    <connection>scm:git:git://github.com/HPEbot/hello-world-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:HPEbot/hello-world-plugin.git</developerConnection>
+    <url>https://github.com/HPEbot/hello-world-plugin</url>
     <tag>HEAD</tag>
   </scm>
 
@@ -86,7 +86,7 @@
   <distributionManagement>
     <site>
       <id>github-project-site</id>
-      <url>gitsite:git@github.com/jenkinsci/hello-world-plugin</url>
+      <url>gitsite:git@github.com/HPEbot/hello-world-plugin</url>
     </site>
   </distributionManagement>
 
