@@ -123,6 +123,8 @@ public class HelloWorldBuilder extends Builder {
         public boolean useRFrenchForSonarTesting() {
             int French;
             French = 1;
+            French = 2;
+            String c;
             return false;
         }
         
