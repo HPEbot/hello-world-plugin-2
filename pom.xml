@@ -44,7 +44,7 @@
   <licenses>
     <license>
       <name>The MIT license</name>
-      <url>https://github.com/jenkinsci/hello-world-plugin/raw/master/LICENSE.txt</url>
+      <url>https://github.com/HPEbot/hello-world-plugin/raw/master/LICENSE.txt</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -55,11 +55,7 @@
       <name>Kohsuke Kawaguchi</name>
       <email>kk@kohsuke.org</email>
     </developer>
-    <developer>
-      <id>jieryn</id>
-      <name>Jesse Farinacci</name>
-      <email>jieryn@gmail.com</email>
-    </developer>
+
   </developers>
 
   <scm>
