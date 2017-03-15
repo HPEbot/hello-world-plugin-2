@@ -14,23 +14,6 @@ import javax.management.Descriptor;
 
 import net.sf.json.JSONObject;
 
-/**
- * Sample {@link Builder}.
- *
- * <p>
- * When the user configures the project and enables this builder,
- * {@link DescriptorImpl#newInstance(StaplerRequest)} is invoked
- * and a new {@link HelloWorldBuilder} is created. The created
- * instance is persisted to the project configuration XML by using
- * XStream, so this allows you to use instance fields (like {@link #name})
- * to remember the configuration.
- *
- * <p>
- * When a build is performed, the {@link #perform(Build, Launcher, BuildListener)} method
- * will be invoked. 
- *
- * @author Kohsuke Kawaguchi
- */
 public class HelloWorldBuilder extends Builder {
 
     private final String name;
@@ -135,5 +118,15 @@ public class HelloWorldBuilder extends Builder {
         public boolean useFrench() {
             return useFrench;
         }
+        
+
+        public boolean useRFrenchForSonarTesting() {
+            int French;
+            French = 1;
+            French = 2;
+            String c;
+            return false;
+        }
+        
     }
 }
